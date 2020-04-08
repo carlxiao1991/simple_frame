@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "54e2115e4bc9957c3415ff10beb2a78c",
+    "packages": [
+        {
+            "name": "carl991/try-make-package",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/carlxiao1991/composer-test.git",
+                "reference": "b4cc82eb5e308a47913c53bc69296c8fbc13d18b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/carlxiao1991/composer-test/zipball/b4cc82eb5e308a47913c53bc69296c8fbc13d18b",
+                "reference": "b4cc82eb5e308a47913c53bc69296c8fbc13d18b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "car1991\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "saboran",
+                    "email": "saboran@163.com"
+                }
+            ],
+            "description": "try make a package",
+            "time": "2019-12-25T04:13:55+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "carl991/try-make-package": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

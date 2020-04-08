@@ -1,0 +1,5 @@
+{
+    "require": {
+        "carl991/try-make-package": "dev-master"
+    }
+}

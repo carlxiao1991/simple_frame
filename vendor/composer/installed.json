@@ -1,0 +1,40 @@
+[
+    {
+        "name": "carl991/try-make-package",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/carlxiao1991/composer-test.git",
+            "reference": "b4cc82eb5e308a47913c53bc69296c8fbc13d18b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/carlxiao1991/composer-test/zipball/b4cc82eb5e308a47913c53bc69296c8fbc13d18b",
+            "reference": "b4cc82eb5e308a47913c53bc69296c8fbc13d18b",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6.0"
+        },
+        "time": "2019-12-25T04:13:55+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "car1991\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "saboran",
+                "email": "saboran@163.com"
+            }
+        ],
+        "description": "try make a package"
+    }
+]
